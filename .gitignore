@@ -1,0 +1,26 @@
+# Private data: never commit
+data/
+*.xlsx
+*.xls
+*.csv
+*.db
+*.sqlite
+uploads/
+papers/
+backups/
+
+# Secrets
+.env
+.env.*
+
+# Builds and dependencies
+node_modules/
+dist/
+build/
+*.exe
+__pycache__/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
