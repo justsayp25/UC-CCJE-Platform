@@ -1,4 +1,4 @@
-# UC-CCJE Repository
+# UC-CCJE Platform
 
 The College Platform of the College of Criminal Justice Education (CCJE), University of the Cordilleras.
 
@@ -26,7 +26,7 @@ One private system for the college's committees, records, and reports. It starte
 ## Repository layout
 
 ```
-UC-CCJE-Repository/
+UC-CCJE-Platform/
 ├── README.md
 ├── ROADMAP.md
 ├── docs/
